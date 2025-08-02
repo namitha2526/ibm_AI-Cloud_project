@@ -3,8 +3,8 @@
 Built as part of the **IBM SkillsBuild Internship on AI and Cloud Technologies** , *LearnMate* is a smart educational assistant powered by an AI agent developed using **IBM Watsonx.ai**.
 
 This project focuses entirely on designing and deploying a standalone AI agent capable of generating personalized course pathways based on user goals, interests, and knowledge level.
-![LearnMate](images/learnmate.png)
----
+<img src="images/learnmate.png" alt="LearnMate Agent" width="400"/>
+
 
 ## 🎯 Objective
 
