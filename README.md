@@ -5,7 +5,7 @@ Built as part of the **IBM SkillsBuild Internship on AI and Cloud Technologies**
 This project focuses entirely on designing and deploying a standalone AI agent capable of generating personalized course pathways based on user goals, interests, and knowledge level.
 
 
-<img src="images/learnmate.png" alt="LearnMate Agent" width="300"/>
+<img src="images/learnmate.png" alt="LearnMate Agent" width="300"/> 
 
 
 ## 🎯 Objective
