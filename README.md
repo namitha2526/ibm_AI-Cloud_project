@@ -1,4 +1,4 @@
-# LearnMate – Agentic AI for Personalized Learning Pathways 🎓🤖
+# LearnMate – Agentic AI for Personalized Course Pathways 🎓🤖
 
 Built as part of the **IBM SkillsBuild Internship on AI and Cloud Technologies** , *LearnMate* is a smart educational assistant powered by an AI agent developed using **IBM Watsonx.ai**.
 
